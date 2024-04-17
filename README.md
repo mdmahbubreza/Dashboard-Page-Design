@@ -1,3 +1,11 @@
+# Project Title
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/661f7473365e33758ecbb8a5/deploy-status)](https://app.netlify.com/sites/dashboard-page-design/deploys)
+
+## Live Site
+
+The project is live at: [https://661f7473365e33758ecbb8a5--dashboard-page-design.netlify.app/](https://661f7473365e33758ecbb8a5--dashboard-page-design.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
