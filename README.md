@@ -1,6 +1,4 @@
-# Project Title
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/661f7473365e33758ecbb8a5/deploy-status)](https://app.netlify.com/sites/dashboard-page-design/deploys)
+# Dashboard Page Design
 
 ## Live Site
 
